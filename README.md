@@ -10,3 +10,7 @@ Amazon EC2: O Amazon Elastic Compute Cloud (Amazon EC2) oferece uma capacidade d
 Amazon RDS: O Amazon Relational Database Service, ou Amazon RDS é um serviço de banco de dados relacional distribuído da Amazon Web Services.
 user: admin
 pass: BatmanRobin
+
+___________________________________________
+
+
