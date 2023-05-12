@@ -14,3 +14,7 @@ pass: BatmanRobin
 ___________________________________________
 
 
+Erros ao executar o projeto:
+Web server failed to start. Port 8080 was already in use.
+
+netstat -ano | findstr 8080
