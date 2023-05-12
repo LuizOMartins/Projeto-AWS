@@ -18,3 +18,9 @@ Erros ao executar o projeto:
 Web server failed to start. Port 8080 was already in use.
 
 netstat -ano | findstr 8080
+
+_____________________________________________
+
+LINKs:
+http://localhost:8080/swagger-ui/index.html
+http://localhost:8080
