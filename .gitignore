@@ -25,6 +25,7 @@ speed-measure-plugin*.json
 
 API/apiproduto/.idea
 API/apiproduto/.mvn
+API/apiproduto/target/*
 API/apiproduto/.mvn
 
 # IDE - VSCode
